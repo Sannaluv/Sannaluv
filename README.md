@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sannaluv
+- 👋 Hi, I’m @Sanna
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Javascript, SQL and Python.
 - 💞️ I’m looking to collaborate with startup projects. 
